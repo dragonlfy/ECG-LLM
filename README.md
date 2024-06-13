@@ -22,7 +22,7 @@ bash ./scripts/time_series_forecasting/long_term/AutoTimes_ETTh1.sh
 
 ```
 
-> Due to the simple tokenization and the frozen of LLM blocks, AutoTimes is highly applicable compared with other LLM4TS methods. For example, it requires only **15min** for AutoTime to repurpuse LLaMA-7B on ETTh1 on one single RTX 3090-24G.
+> It is recommended that your graphics card computing power is greater than o equal to an RTX 3090-24G.
 
 
 ## Acknowledgement
