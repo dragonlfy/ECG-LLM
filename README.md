@@ -22,7 +22,7 @@ bash ./scripts/time_series_forecasting/long_term/AutoTimes_ETTh1.sh
 
 ```
 
-> It is recommended that your graphics card computing power is greater than o equal to an RTX 3090-24G.
+> It is recommended that your graphics card computing power is greater than or equal to an RTX 3090-24G.
 
 
 ## Acknowledgement
