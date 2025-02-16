@@ -1,4 +1,9 @@
-## Usage 
+# ECG-LLM: Leveraging Large Language Models for Low-Quality ECG Signal Restoration
+
+This repository contains the code for the paper "ECG-LLM: Leveraging Large Language Models for Low-Quality ECG Signal Restoration" published by IEEE in 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
+
+[https://ieeexplore.ieee.org/document/10822461](https://ieeexplore.ieee.org/document/10822461).
+
 
 1. Install Pytorch and necessary dependencies.
 
